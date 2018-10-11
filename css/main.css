@@ -19,13 +19,14 @@ h1 {
 }
 
 .planets a {
-  display: inline-block;
-  padding: .5em .75em;
   background-color: #713837;
   border-radius: 4px;
   color: #fff;
-  text-decoration: none;
+  display: inline-block;
   font-family: 'Arial', sans-serif;
+  margin: 3em;
+  padding: .5em .75em;
+  text-decoration: none;
 }
 
 .planets a:hover {
