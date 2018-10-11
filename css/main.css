@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  margin: ;
+  margin: 0em;
   background-color: #79756f;
   border-style: solid;
   border-color: #595652;
@@ -28,7 +28,6 @@ header {
 li {
   display: inline-block;
   list-style-type: none;
-  padding: .6em;
 }
 
 a {
@@ -37,7 +36,8 @@ a {
   color: #fff;
   font-family: Arial, sans-serif;
   margin: .3em;
-  padding: .5em .75em;
+  padding: .6em;
+  text-align: center;
   text-decoration: none;
 }
 
