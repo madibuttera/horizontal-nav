@@ -13,3 +13,17 @@ h1 {
   color: #fff;
   text-align: center;
 }
+
+.planets a {
+  text-align: center;
+  display: inline-block;
+  padding: .5em .75em;
+  background-color: #713837;
+  border-radius: 4px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.planets a:hover {
+  background-color: #f33;
+}
