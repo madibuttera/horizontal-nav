@@ -10,8 +10,8 @@ html {
 
 body {
   background-color: #79756f;
-  margin: .3em;
-  padding: .6em;
+  margin: 0px;
+  padding: 0px;
   border-style: solid;
   border-color: #595652;
 }
@@ -29,6 +29,7 @@ header {
 li {
   display: inline-block;
   list-style-type: none;
+  padding: .6em;
 }
 
 a {
