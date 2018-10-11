@@ -12,6 +12,8 @@ body {
   background-color: #79756f;
   margin: .3em;
   padding: .6em;
+  border-style: solid;
+  border-color: #595652;
 }
 
 h1 {
