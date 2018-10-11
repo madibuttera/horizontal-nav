@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   background-color: #dbd6cf;
-  font-family: 'Bevan', cursive;
+  font-family: 'Bevan', sans-serif;
   line-height: 1.5;
 }
 
@@ -14,14 +14,18 @@ h1 {
   text-align: center;
 }
 
-.planets a {
+.planets div {
   text-align: center;
+}
+
+.planets a {
   display: inline-block;
   padding: .5em .75em;
   background-color: #713837;
   border-radius: 4px;
   color: #fff;
   text-decoration: none;
+  font-family: 'Arial', sans-serif;
 }
 
 .planets a:hover {
