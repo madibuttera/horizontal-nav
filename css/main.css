@@ -9,9 +9,9 @@ html {
 }
 
 body {
+  margin: ;
   background-color: #79756f;
-  margin: 0px;
-  padding: 0px;
+  border: top, bottom;
   border-style: solid;
   border-color: #595652;
 }
@@ -19,7 +19,7 @@ body {
 h1 {
   color: #fff;
   text-align: center;
-  font-family: Bevan, sans-serif;
+  font-family: "Bevan", sans-serif;
 }
 
 header {
