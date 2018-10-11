@@ -1,7 +1,6 @@
 html {
   box-sizing: border-box;
   background-color: #dbd6cf;
-  font-family: "Bevan", sans-serif;
   line-height: 1.5;
 }
 
@@ -11,25 +10,30 @@ html {
 
 body {
   background-color: #79756f;
-  margin: 0;
-  padding-top: .6em;
+  margin: .3em;
+  padding: .6em;
 }
 
- h1 {
+h1 {
   color: #fff;
   text-align: center;
+  font-family: Bevan, sans-serif;
 }
 
-div {
+header {
   text-align: center;
+}
+
+li {
+  display: inline-block;
+  list-style-type: none;
 }
 
 a {
   background-color: #713837;
   border-radius: 4px;
   color: #fff;
-  display: inline-block;
-  font-family: "Arial", sans-serif;
+  font-family: Arial, sans-serif;
   margin: .3em;
   padding: .5em .75em;
   text-decoration: none;
