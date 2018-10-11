@@ -9,22 +9,22 @@ html {
   box-sizing: inherit;
 }
 
-.planets {
+body {
   background-color: #79756f;
   margin: 0;
   padding-top: .6em;
 }
 
-.planets h1 {
+ h1 {
   color: #fff;
   text-align: center;
 }
 
-.planets div {
+div {
   text-align: center;
 }
 
-.planets a {
+a {
   background-color: #713837;
   border-radius: 4px;
   color: #fff;
@@ -35,6 +35,6 @@ html {
   text-decoration: none;
 }
 
-.planets a:hover {
+a:hover {
   background-color: #f33;
 }
