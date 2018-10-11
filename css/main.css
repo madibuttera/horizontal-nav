@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   background-color: #dbd6cf;
-  font-family: 'Bevan', sans-serif;
+  font-family: "Bevan", sans-serif;
   line-height: 1.5;
 }
 
@@ -29,7 +29,7 @@ html {
   border-radius: 4px;
   color: #fff;
   display: inline-block;
-  font-family: 'Arial', sans-serif;
+  font-family: "Arial", sans-serif;
   margin: .3em;
   padding: .5em .75em;
   text-decoration: none;
