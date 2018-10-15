@@ -28,6 +28,7 @@ header {
 li {
   display: inline-block;
   list-style-type: none;
+  margin: .6em 0;
 }
 
 a {
@@ -35,7 +36,6 @@ a {
   border-radius: 4px;
   color: #fff;
   font-family: Arial, sans-serif;
-  margin-top: .3em;
   padding: .6em;
   text-align: center;
   text-decoration: none;
